@@ -1,0 +1,25 @@
+.hd{
+    font-size: 35px;
+    width: 100%;
+    text-align: left;
+    margin: 0;
+}
+.hd button{
+    float: right;
+    border: 1px solid white;
+    font-size: 20px;
+}
+.img1{
+    width: 100%;
+}
+.c3{
+    font-size: 25px;
+}
+.modal-dialog
+{
+    width: 90% !important;
+}
+.close
+{
+    font-size: 70px !important;
+}
